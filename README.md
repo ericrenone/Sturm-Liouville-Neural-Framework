@@ -1,4 +1,4 @@
-# Sturm-Liouville Neural Framework (SLNF): Learning, Generalization, and Phase Transitions
+# (SLNF) Sturm-Liouville Neural Framework: Learning, Generalization, and Phase Transitions
 
 ---
 
